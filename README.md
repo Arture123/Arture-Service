@@ -46,7 +46,7 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 - Generate Swagger After Make Annotation ```php artisan l5-swagger:generate```
 - Running Swagger ```127.0.0.1:8000/api/documentation```
 
-##RESPONSE RULE
+## RESPONSE RULE
 - The json output represent "Result", "Messsage", and "Status"
 - For Example:
 
